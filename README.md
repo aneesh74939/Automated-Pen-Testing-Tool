@@ -52,7 +52,7 @@ The payload module generates payloads that may be used during testing.
 Installation
 Prerequisites
 Make sure the following tools are installed:
-Python
+Python 3.9.12
 Nmap
 Clone the Repository
 git clone https://github.com/yourusername/automated-pentest-tool.git
