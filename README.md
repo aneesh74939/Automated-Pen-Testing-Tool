@@ -19,13 +19,21 @@ The tool is structured into multiple modules, allowing each security function to
 Project Structure
 automated-pentest-tool/
 │
+
 ├── main.py              # Main program that runs the tool
+
 ├── port_scan.py         # Port scanning module
+
 ├── vuln_scan.py         # Vulnerability scanning module
+
 ├── exploitation.py      # Exploitation logic
+
 ├── payload.py           # Payload generation script
+
 ├── payload.cpython-39.pyc
+
 ├── pyvenv.cfg
+
 └── README.md
 
 Technologies Used
